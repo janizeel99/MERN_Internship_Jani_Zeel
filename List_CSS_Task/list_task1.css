@@ -1,0 +1,92 @@
+*{
+    margin: 20;
+    padding:10 160;
+}
+li.a1{
+   border: 3px solid rgb(55, 187, 240);
+   background-color: white;
+   border-radius: 40px;
+   list-style-position: inside;
+   padding: 20px 20px 20px;
+   margin: 8px 50px;
+   font-family: cursive;
+   list-style-image: url(images/icons8-wrong-24.png);
+   font-size: 18px;
+}
+li.a2{
+    border: 3px solid red;
+    background-color: rgba(226, 98, 98, 0.733);
+    border-radius: 40px;
+    list-style-position: inside;
+    padding: 20px 20px 20px;
+    margin: 8px 50px;
+    list-style-image: url(images/icons8-wrong-24.png);
+    font-family: cursive;
+    font-size: 18px;
+}
+li.a3{
+    border: 3px solid rgb(69, 205, 250);
+    background-color: rgba(120, 215, 231, 0.733);
+    border-radius: 40px;
+    list-style-position: inside;
+    padding: 20px 20px 20px;
+    margin: 8px 50px;
+    list-style-image: url(images/icons8-done-24.png);
+    font-family: cursive;
+    font-size: 18px; 
+}
+li.a4{
+    border: 3px solid rgb(28, 223, 93);
+    background-color: rgba(142, 230, 134, 0.733);
+    border-radius: 40px;
+    list-style-position: inside;
+    padding: 20px 20px 20px;
+    margin: 8px 50px;
+    list-style-image: url(images/icons8-done-24.png);
+    font-family: cursive;
+    font-size: 18px;
+}
+li.a5{
+    border: 3px solid rgb(230, 255, 6);
+    background-color: rgba(224, 228, 18, 0.308);
+    border-radius: 40px;
+    list-style-position: inside;
+    padding: 20px 20px 20px;
+    margin: 8px 50px;
+    list-style-image: url(images/icons8-done-24.png);
+    font-family: cursive;
+    font-size: 18px;
+}
+li.a6{
+    border: 3px solid rgb(64, 28, 223);
+    background-color: rgba(171, 147, 238, 0.733);
+    border-radius: 40px;
+    list-style-position: inside;
+    padding: 20px 20px 20px;
+    margin: 8px 50px;
+    list-style-image: url(images/icons8-done-24.png);
+    font-family: cursive;
+    font-size: 18px;
+}
+li.a7{
+    border: 3px solid rgb(240, 153, 22);
+    background-color: rgba(238, 212, 97, 0.733);
+    border-radius: 40px;
+    list-style-position: inside;
+    padding: 20px 20px 20px;
+    margin: 8px 50px;
+    list-style-image: url(images/icons8-wrong-24.png);
+    font-family: cursive;
+    font-size: 18px;
+}
+li.a8{
+    border: 3px solid rgb(235, 34, 174);
+    background-color: rgba(243, 147, 230, 0.733);
+    border-radius: 40px;
+    list-style-position: inside;
+    padding: 20px 20px 20px;
+    margin: 8px 50px;
+    list-style-image: url(images/icons8-done-24.png);
+    font-family: cursive;
+    font-size: 18px;
+}
