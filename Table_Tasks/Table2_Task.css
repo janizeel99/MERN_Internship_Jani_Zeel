@@ -1,0 +1,54 @@
+html,body{
+    height: 100%;
+}
+body{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 1px;
+    color: #fff;
+    background: linear-gradient(135deg, #c158da 10%, #56b67f 100%);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+table{
+    width: 800px;
+    border-collapse: collapse;
+    text-align: left;
+    text-transform: capitalize;
+    word-spacing: 1px;
+    box-shadow: 5px 5px 10px black;
+    
+}
+table,th,table td{
+    padding: 18px;
+}
+table thead{
+    background: linear-gradient(135deg, #534e57 10%, #63aecb 100%);
+    cursor: pointer;
+}
+table td{
+    background: rgba(255, 255, 255, 0.2);
+}
+td.t1{
+    background-color: rgba(255, 255, 255, 0.3);
+}
+td.t1:hover{
+    background-color: rgba(255, 255, 255, 0.1); 
+    color: darkred;
+}
+td:hover{
+    color: darkgreen;
+    font-size: large;
+    font-weight: 500;
+    font-family: cursive;
+    cursor: pointer;
+}
+
+
+
+
