@@ -64,7 +64,7 @@ let HP_Laptop = {
 console.log(HP_Laptop);
 
 //Object 6
-let cello_pen = {
+let Cello_pen = {
     image: false,
     name:"Cello Butterflow Ball Pen",
     price: 20,
@@ -74,7 +74,7 @@ let cello_pen = {
     flipkart_Assured: false,
     bank_offer: false
 };
-console.log(cello_pen);
+console.log(Cello_pen);
 
 //Object 7
 let Wakefit_Mattress = {
